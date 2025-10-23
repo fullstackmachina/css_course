@@ -1,0 +1,18 @@
+body {
+  background: #333;
+}
+
+.box {
+  margin: 0 auto;
+  padding: 100px;
+  width: 250px;
+  height: 250px;
+  /* par nom */
+  background-color: salmon;
+  /* par coded RGB */
+  background-color: rgb(189, 74, 62);
+  /* par code hexadecimale */
+  background-color: #7510d3;
+  /* par code HSL */
+  background-color: hsl(93, 83%, 25%);
+}
